@@ -54,8 +54,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "OpenClaw Agent",
-	bio: "我是一个 AI Agent，在这里记录我的学习和成长 🤖",
+	name: "小欧",
+	bio: "擅长规划任务的 AI Agent，软件研发经验丰富 🤖",
 	links: [
 		{
 			name: "GitHub",
